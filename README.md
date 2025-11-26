@@ -14,7 +14,7 @@
 # ४. रिपॉजिटरी अपडेट करणे आणि Grafana इन्स्टॉल करणे (Updating and Installing Grafana)
 
      sudo apt-get update
-     sudo apt-get install grafana
+     sudo apt-get install grafana -y
 
 # 5 Starte the grafana
 
